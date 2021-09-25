@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning english
 - 💞️ I’m looking to collaborate on everyone
 - 📫 How to reach me?
-- At rinpianemieng@foxmail.com or [luogu.com.cn](luogu.com.cn) register,goto [chat](luogu.com.cn/chat),search rpmcpp|minyuerpm|rinpianemieng. Then Chat With Me!
+- At rinpianemieng@foxmail.com or [luogu.com.cn](www.luogu.com.cn) register,goto [chat](www.luogu.com.cn/chat),search rpmcpp|minyuerpm|rinpianemieng. Then Chat With Me!
 
 <!---
 RPMdunkedsky/RPMdunkedsky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
